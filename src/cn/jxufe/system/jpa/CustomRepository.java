@@ -34,7 +34,7 @@ public class CustomRepository<T, ID extends Serializable> extends SimpleJpaRepos
 	}
 
 	public String sharedCustomMethod() {
-		return "User defined sharedCustomMethod";
+		return "User defined sharedCustom";
 		// implementation goes here
 	}
 }
